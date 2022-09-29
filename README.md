@@ -2,7 +2,7 @@
 - 👀 I’m interested in VUE Projects to join wherever its progress is in. 
 - 🌱 I’m currently learning VUE and FIREBASE
 - 💞️ I’m looking to collaborate on volunteer and open source code
-- 📫 you can reach me on my whatsapp account +55 44 9 9868-6689  :) 
+- 📫 you can reach me on my whatsapp contact +55 44 9 9868-6689  :) 
 
 <!---
 EmersonHf/EmersonHf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
